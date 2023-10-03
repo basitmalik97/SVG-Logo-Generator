@@ -14,6 +14,11 @@ Create an SVG logo with your preferred shape (circle, square, or triangle), shap
 
 Watch a [video](https://drive.google.com/file/d/1pQpRNS-wJl5NYGYyE0JOhp1kBzS3Yaih/view?usp=sharing) demonstration of the basic functionality:
 
+Screenshots: 
+(/Users/basitmalik/UCONN/git-svg/SVG-Logo-Generator/Screenshots/Circle.png)
+(/Users/basitmalik/UCONN/git-svg/SVG-Logo-Generator/Screenshots/Square.png)
+(/Users/basitmalik/UCONN/git-svg/SVG-Logo-Generator/Screenshots/Triangle.png)
+
 
 ## Table of Contents
 
