@@ -12,7 +12,7 @@
 
 Create an SVG logo with your preferred shape (circle, square, or triangle), shape color, text (restricted to 3 characters), and text color. You can select the colors using either color keywords or hexadecimal values.
 
-Watch a [video]() demonstration of the basic functionality:
+Watch a [video](https://drive.google.com/file/d/1pQpRNS-wJl5NYGYyE0JOhp1kBzS3Yaih/view?usp=sharing) demonstration of the basic functionality:
 
 
 ## Table of Contents
