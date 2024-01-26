@@ -16,11 +16,11 @@ Watch a [video](https://drive.google.com/file/d/1pQpRNS-wJl5NYGYyE0JOhp1kBzS3Yai
 
 **Screenshots:**
 
-- Circle-Logo Screenshot
+- Circle-Logo
   ![Circle-Logo Screenshot](Circle.png)
-- Square-Logo Screenshot
+- Square-Logo
   ![Square-Logo Screenshot](Square.png)
-- Triangle-Logo Screenshot
+- Triangle-Logo
   ![Triangle-Logo Screenshot](Triangle.png)
 
 ## Table of Contents
