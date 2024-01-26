@@ -14,13 +14,14 @@ Create an SVG logo with your preferred shape (circle, square, or triangle), shap
 
 Watch a [video](https://drive.google.com/file/d/1pQpRNS-wJl5NYGYyE0JOhp1kBzS3Yaih/view?usp=sharing) demonstration of the basic functionality:
 
-Screenshots:
+**Screenshots:**
 
-
-![Circle-Logo Screenshot](Circle.png)
-![Square-Logo Screenshot](Square.png)
-![Triangle-Logo Screenshot](Triangle.png)
-
+- Circle-Logo Screenshot
+  ![Circle-Logo Screenshot](Circle.png)
+- Square-Logo Screenshot
+  ![Square-Logo Screenshot](Square.png)
+- Triangle-Logo Screenshot
+  ![Triangle-Logo Screenshot](Triangle.png)
 
 ## Table of Contents
 
